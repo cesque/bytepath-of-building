@@ -1,0 +1,13 @@
+{
+    "name": "bytepath-of-building",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "yarn parcel index.html"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "2.0.0-beta.2",
+        "parcel": "^2.0.0-beta.2"
+    }
+}
